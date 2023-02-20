@@ -22,23 +22,19 @@ The dashboard's starting state shows the unfiltered Austin Animal Center dataset
 
 Starting state
 
-screenshot
+![Picture1](https://user-images.githubusercontent.com/89939389/220008982-078d4749-a5d9-4773-9632-7370f091d260.png)
 
 Water rescue
 
-screenshot
+![Picture2](https://user-images.githubusercontent.com/89939389/220009117-fd3b66f9-cd94-4021-bd0e-c431e24ce996.png)
 
 Mountain/wilderness rescue
 
-screenshot
+![Picture3](https://user-images.githubusercontent.com/89939389/220009120-7e167b87-2be3-4f7d-a016-cc8f0864d8f4.png)
 
 Disaster rescue/individual tracking
 
-screenshot
-
-Reset filter
-
-screenshot
+![Picture4](https://user-images.githubusercontent.com/89939389/220009124-c19d6e03-0306-4723-ab5a-10ea1e5d2ee3.png)
 
 ## Roadmap
 
