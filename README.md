@@ -1,5 +1,7 @@
 # Grazioso-Salvare-Dashboard
 
+## Overview
+
 This is a dashboard and data visualization project created for Grazioso Salvare, an international rescue-animal training company. The dashboard allows stakeholders to access data from animal shelters in the Austin, TX metro area and filter the data by relevant criteria for different rescue types. This a full-stack project that was created using Python, MongoDB, and the Dash framework.
 
 ## Design Specifications
@@ -43,4 +45,4 @@ Disaster rescue/individual tracking
 
 **Authors and Acknowledgment**
 
-This dashboard was created by Joey Paul Eli Haynes and implements the requirements from Grazioso Salvare's specifications documentation. The data for this dashboard was provided by the Austin Animal Center (2020). _Austin Animal Center Outcomes_ [Data set]. City of Austin, Texas Open Data Portal. [https://doi.org/10.26000/025.000001](https://doi.org/10.26000/025.000001)
+This dashboard was created by J.P. Haynes and implements the requirements from Grazioso Salvare's specifications documentation. The data for this dashboard was provided by the Austin Animal Center (2020). _Austin Animal Center Outcomes_ [Data set]. City of Austin, Texas Open Data Portal. [https://doi.org/10.26000/025.000001](https://doi.org/10.26000/025.000001)
